@@ -370,6 +370,9 @@
 	/* Removes Long Focus On Buttons */
 	$(".button, a, button").mouseup(function() {
 		$(this).blur();
-	});
+    });
+    $(document).ready(function() {
+        $('video').prop('muted',true)[0].play()
+    });
 
 })(jQuery);
