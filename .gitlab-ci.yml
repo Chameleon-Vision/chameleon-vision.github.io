@@ -3,10 +3,9 @@ image: alpine:latest
 pages:
   stage: deploy
   script:
-  - mkdir newPublicFolder
-  - mv public/* newPublicFolder
+  - echo 'Nothing to do...'
   artifacts:
     paths:
-    - newPublicFolder
+    - public
   only:
   - master
