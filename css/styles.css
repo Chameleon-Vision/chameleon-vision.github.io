@@ -862,7 +862,7 @@ input[type='checkbox'] {
 .tabs {
 	padding-top: 6.5rem;
 	padding-bottom: 4.25rem;
-	background-color: #2f2c3d;
+	background-color: #212125;
 }
 
 .tabs h2 {
@@ -1010,7 +1010,7 @@ input[type='checkbox'] {
 .basic-1 {
 	padding-top: 6.375rem;
 	padding-bottom: 6.875rem;
-	background-color: #2f2c3d;
+	background-color: #212125;
 	background-size: cover; 
 }
 
@@ -1345,7 +1345,7 @@ input[type='checkbox'] {
 	padding-top: 6.25rem;
 	padding-bottom: 5.625rem;
 	/* background: url('../images/contact-background.jpg') center bottom no-repeat; */
-	background-color: #2f2c3d;
+	background-color: #212125;
 	background-size: cover; 
 }
 
